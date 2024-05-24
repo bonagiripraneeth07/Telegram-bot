@@ -1,1 +1,1 @@
--This Project is live now !check it out : t.me/DevNavigator_bot.
+-This Project is live now !check it out :  https://t.me/DevNavigator_bot
